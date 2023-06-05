@@ -8,7 +8,7 @@
 <section>
   <div>
     <br>
-    <img align="left" height="200" width="500"src="https://github.com/JapaScripter/Project_Sorteio/blob/main/assets/%23Lot%C3%A9rica_Sorteio%23.PNG" />
+    <img align="left" height="225" width="500"src="https://github.com/JapaScripter/Project_Sorteio/blob/main/assets/%23Lot%C3%A9rica_Sorteio%23.PNG" />
     <h3 align="justify">"Este projeto é um contador de probabilidade de números que podem ser sorteados."</h3>
     <br>
     <h3 align="justify">"This project is a probability counter of numbers that can be drawn."</h3>
